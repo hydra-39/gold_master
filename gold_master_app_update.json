@@ -1,1 +1,6 @@
-XX
+{
+  "latest_version": "1.1",
+  "apk_url": "https://raw.githubusercontent.com/hydra-39/gold_master/refs/heads/main/app/goldmaster-v1.1.apk",
+  "notes": "Update APK Gold Master v1.1\n- Menambahkan update firmware GMFD\n- Perbaikan lisensi\n- Perbaikan koneksi Bluetooth\n- Perbaikan tampilan update aplikasi",
+  "min_firmware_version": "1.0"
+}
