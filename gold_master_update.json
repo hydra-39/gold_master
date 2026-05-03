@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.3",
+  "latest_version": "1.0.4",
   "min_app_version": "1.0.0",
-  "file_size": 1287600,
-  "checksum": "0710D244",
+  "file_size": 1287472,
+  "checksum": "0710457A",
   "fw_url": "https://raw.githubusercontent.com/hydra-39/gold_master/main/firmware.gmf",
   "notes": "TRIAL ALL FEATURE"
 }
